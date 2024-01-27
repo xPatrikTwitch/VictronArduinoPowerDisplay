@@ -1,0 +1,3 @@
+#!/bin/sh
+exec 2>&1
+python /data/home/root/arduino_power_display/script_arduino_power_display.py
